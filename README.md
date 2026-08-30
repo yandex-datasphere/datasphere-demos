@@ -9,5 +9,7 @@
 * [LLM_Theatre_LocalMemory.ipynb](LLM_Theatre_LocalMemory.ipynb) - диалог двух агентов YandexGPT с использованием локальной памяти
 * [RAG_Assistant.ipynb](RAG_assistant.ipynb) - пример реализации RAG-ассистента с использованием AI Assistant API и Cloud ML SDK
 * [YandexOCR.ipynb](YandexOCR.ipynb) - распознавание печатного и рукописного текста с Yandex Vision OCR и корректировка мелких ошибок с помощью YandexGPT
+* [NLP_Demo.ipynb](NLP_Demo.ipynb) - работа с локальными эмбеддингами и языковой моделью с HuggingFace в Datasphere.
+* [jobs](jobs) - обучение модели прогнозирования рейтинга отзыва с помощью Datasphere Jobs
 
 Для корректной работы ноутбуков необходимо определить следующие секреты в Datasphere: `folder_id` и `api_key`. Соответствующий этим секретам сервисный аккаунт должен иметь права на работу с YandexGPT, YandexART, ассистентами и Yandex Vision OCR.

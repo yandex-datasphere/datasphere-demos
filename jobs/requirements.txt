@@ -1,0 +1,4 @@
+sentence-transformers
+tensorflow
+scikit-learn
+pandas
