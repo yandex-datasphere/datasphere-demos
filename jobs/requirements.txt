@@ -1,4 +1,7 @@
-sentence-transformers
+sentence_transformers
+transformers==5
 tensorflow
 scikit-learn
 pandas
+numpy<2
+Pillow
